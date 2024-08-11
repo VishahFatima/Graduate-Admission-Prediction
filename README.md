@@ -78,11 +78,9 @@ The model demonstrates the ability to predict the "Chance of Admit" with reasona
 - **Training vs Validation Loss**: Shows how the model's learning evolves over epochs.
 
 ## Visualization
-- **Predicted vs Actual Chance of Admit**:
-  ![Predicted vs Actual]("C:\Users\SAAD COMMUNICATION\OneDrive\Pictures\Screenshots\Screenshot 2024-08-11 214925.png"/predicted_vs_actual.png)
+- **Predicted vs Actual Chance of Admit**
 
-- **Training vs Validation Loss**:
-  ![Training vs Validation Loss]("C:\Users\SAAD COMMUNICATION\OneDrive\Pictures\Screenshots\Screenshot 2024-08-11 215010.png"/training_vs_validation_loss.png)
+- **Training vs Validation Loss**
 
 ## Conclusion
 This project showcases the potential of deep learning in educational data analysis. By predicting the chances of admission, the model provides valuable insights for students, helping them make informed decisions about their graduate studies.
